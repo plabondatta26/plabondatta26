@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Plabon Datta. I am a professional Django developer. Working with Python, Django, Rast Framework more then 1.5 year.
+- 👋 Hi, I’m Plabon Datta. I am a professional Django developer. Working with Python, Django, Rest Framework more then 1.5 year.
 - 👀 I’m interested in Docker, AWS
 - 🌱 I’m currently learning Advance Django
 - 💞️ 
