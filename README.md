@@ -26,6 +26,11 @@
   - Django Rest Framework
 
 
+- Database
+  - MySQL
+  - PostgreSQL
+
+
 - Frontend
   - HTML
   - CSS
@@ -40,8 +45,23 @@
   - Matplotlib
   - Numpy
 
+
 - Web Scrapping
-  
+
+
+- Version Control
+  - Github
+  - GitLab
+
+
+- Project Management
+  - Zira
+  - Trello
+
+
+- Operating System
+  - Windows
+  - Linux
 <!---
 plabondatta26/plabondatta26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
