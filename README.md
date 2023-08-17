@@ -13,11 +13,13 @@
 <br> Dhaka Internation University
 
 # Work Experiance 
-- iQuantile
+- Techsist (Jul 2023, Present) 
+  <br> Software Engineer
+  
+- iQuantile (Dec 2021, May 2023) 
   <br> Software Engineer
 
-
-- Essential Info-tech
+- Essential Info-tech (Nov 2020, Jul 2021)
   <br>Web Programmer
 # Skills
 - Backend
@@ -25,6 +27,9 @@
   - Django
   - Django Rest Framework
 
+- Server
+  - AWS
+  - Cpanel
 
 - Database
   - MySQL
@@ -57,6 +62,7 @@
 - Project Management
   - Zira
   - Trello
+  - Freedcamp
 
 
 - Operating System
