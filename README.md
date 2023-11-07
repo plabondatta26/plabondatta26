@@ -21,53 +21,30 @@
 
 - Essential Info-tech (Nov 2020, Jul 2021)
   <br>Web Programmer
-# Skills
-- Backend
-  - Python
-  - Django
-  - Django Rest Framework
+## Language & Technology
 
-- Server
-  - AWS
-  - Cpanel
-
-- Database
-  - MySQL
-  - PostgreSQL
-
-
-- Frontend
-  - HTML
-  - CSS
-  - Bootstrape
-  - JS
-  - AJAX
-  - jQuery
-
-
-- Data Visualization
-  - Pandas
-  - Matplotlib
-  - Numpy
-
-
-- Web Scrapping
-
-
-- Version Control
-  - Github
-  - GitLab
-
-
-- Project Management
-  - Zira
-  - Trello
-  - Freedcamp
-
-
-- Operating System
-  - Windows
-  - Linux
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/-Django_Rest_Framework-green?style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![AJAX](https://img.shields.io/badge/-AJAX-red?style=flat-square)
+![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jquery&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-square&logo=gitlab)
+![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira-software&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=trello&logoColor=white)
+![Freedcamp](https://img.shields.io/badge/-Freedcamp-blue?style=flat-square&logo=freedcamp&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows)
+![Linux](https://img.shields.io/badge/-Linux-orange?style=flat-square&logo=linux&logoColor=white)
 <!---
 plabondatta26/plabondatta26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
