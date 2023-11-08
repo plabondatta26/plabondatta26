@@ -45,6 +45,8 @@
 ![Freedcamp](https://img.shields.io/badge/-Freedcamp-blue?style=flat-square&logo=freedcamp&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-orange?style=flat-square&logo=linux&logoColor=white)
+![GitHub discussions custom search in repo](https://img.shields.io/github/discussions-search/:user/:repo)
+
 <!---
 plabondatta26/plabondatta26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
