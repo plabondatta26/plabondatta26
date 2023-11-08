@@ -1,54 +1,28 @@
-- 👋 Hi, I’m Plabon Datta.
-- Software Engineer
-- 👀 Interest: Docker, AWS 
+<h3 align="center">A passionate backend developer from bangladesh</h3>
+<p align="center">
+<!-- <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif"> -->
+<img src="https://gist.githubusercontent.com/musama619/eb3b00f5a85880bfaa7416d7916d61c5/raw/a9786f37062f2d0ed2dc724823aa66eed8ce883f/hi.gif" style="border-radius: 5%;" />
 
-<br>[![Gmail: plabon-datta](https://img.shields.io/badge/-Plabon_Datta-green?style=flat-square&logo=Gmail&logoColor=red&link=mailto:plabondatta26@gmail.com)](mailto:plabondatta26@gmail.com)
-[![Linkedin: plabon-datta](https://img.shields.io/badge/-Plabon_Datta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashif-zafar-70618434/)](https://www.linkedin.com/in/plabon-datta/)
-[![Facebook: plabon-datta](https://img.shields.io/badge/-Plabon_Datta-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/plabondatta26/)](https://www.facebook.com/plabondatta26/)
-[![Skype: plabon-datta](https://img.shields.io/badge/-Plabon_Datta-azure?style=flat-square&logo=Skype&logoColor=blue&link=live:plabondatta26)](Skype:plabondatta26)
-[![Whatsapp: plabon-datta](https://img.shields.io/badge/-Plabon_Datta-Green?style=flat-square&logo=Whatsapp&logoColor=white&link=Whatsapp:+8801797405859)](Whatsapp:+8801797405859)
+</p>
+ <!-- Trophy section -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plabondatta26&margin-w=15&theme=algolia" alt="plabondatta26" /></a> </p>
 
-# Education
-- BSc in CSE
-<br> Dhaka Internation University
+<p>
+With three years of professional experience as a backend developer, I have demonstrated a strong ability to tackle complex challenges and deliver robust solutions. Throughout my career, I have actively contributed to the development of various projects, consistently striving for excellence and innovation. My problem-solving skills, coupled with a deep understanding of software development principles, have enabled me to effectively design and implement scalable and efficient backend systems. I am passionate about leveraging my technical proficiency to drive impactful results and contribute to the advancement of cutting-edge software solutions.
+</p>
 
-# Work Experiance 
-- Techsist (Jul 2023, Present) 
-  <br> Software Engineer
-  
-- iQuantile (Dec 2021, May 2023) 
-  <br> Software Engineer
+# Contact Me
 
-- Essential Info-tech (Nov 2020, Jul 2021)
-  <br>Web Programmer
-## Language & Technology
+<p>
+<a href="mailto:plabondatta26@gmail.com"><img src="https://raw.githubusercontent.com/plabondatta26/icons/main/icons8-gmail.svg" width=30></a>
+<a href="https://www.facebook.com/plabondatta26/"><img src="https://raw.githubusercontent.com/plabondatta26/icons/main/Facebook.svg" width=30></a>
+<a href="https://www.linkedin.com/in/plabon-datta/"><img src="https://raw.githubusercontent.com/plabondatta26/icons/main/LinkedIn.svg" width=30></a>
+<a href="https://wa.me/+8801797405859"><img src="https://raw.githubusercontent.com/plabondatta26/icons/main/icons8-whatsapp.svg" width=30></a>
+<a href="skype:plabondatta26?chat"><img src="https://raw.githubusercontent.com/plabondatta26/icons/main/icons8-skype.svg" width=30></a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django&logoColor=white)
-![Django Rest Framework](https://img.shields.io/badge/-Django_Rest_Framework-green?style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![AJAX](https://img.shields.io/badge/-AJAX-red?style=flat-square)
-![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jquery&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square)
-![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-square&logo=gitlab)
-![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira-software&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=trello&logoColor=white)
-![Freedcamp](https://img.shields.io/badge/-Freedcamp-blue?style=flat-square&logo=freedcamp&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows)
-![Linux](https://img.shields.io/badge/-Linux-orange?style=flat-square&logo=linux&logoColor=white)
-![GitHub discussions custom search in repo](https://img.shields.io/github/discussions-search/:user/:repo)
+# My Github Stats
 
-<!---
-plabondatta26/plabondatta26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plabondatta26&theme=highcontrast" alt="plabondatta26" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plabondatta26&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=0775d5&locale=en" alt="plabon datta" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plabondatta26&show_icons=true&locale=en&layout=compact" alt="plabondatta26" /></p>
