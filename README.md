@@ -23,6 +23,5 @@ With three years of professional experience as a backend developer, I have demon
 
 # My Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plabondatta26&theme=highcontrast" alt="plabondatta26" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plabondatta26&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=0775d5&locale=en" alt="plabon datta" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plabondatta26&show_icons=true&locale=en&layout=compact" alt="plabondatta26" /></p>
