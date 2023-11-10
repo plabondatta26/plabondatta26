@@ -14,11 +14,11 @@
 
 # 📊 GitHub Stats:
 
-<!-- | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=plabondatta26&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=plabondatta26&theme=dark&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plabondatta26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=pie&langs_count=10) -->
+
 <div style="display: flex; justify-content: space-between;">
 
   <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=plabondatta26&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=0775d5&locale=en&include_all_commits=true&count_private=true&" alt="Github Stats" /> <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=plabondatta26&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=0775d5&locale=en&include_all_commits=true" alt="Github Stats" /> <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=plabondatta26&theme=dark&hide_border=false" alt="GitHub Streak">
   </div>
 
