@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 
-[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?logo=gmail&logoColor=white)](mailto:plabondatta26@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/plabondatta26) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/plabondatta26) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13040712) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+8801797405859) [![Skype](https://img.shields.io/badge/-Skype-00AFF0?logo=skype&logoColor=white)](skype:plabondatta26?chat)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?logo=gmail&logoColor=white)](mailto:plabondatta26@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/plabondatta26) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/plabondatta26) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13040712) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+8801797405859) ![Skype](https://img.shields.io/badge/-Skype-00AFF0?logo=skype&logoColor=white)](skype:live:plabondatta26?chat)
+
 
 [![](https://visitcount.itsvg.in/api?id=plabondatta26&icon=5&color=1)](https://visitcount.itsvg.in)
 
